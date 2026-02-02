@@ -355,11 +355,3 @@ After signing in, use the user menu (top right) to open your role-specific dashb
 - **Customer**: Dashboard (shipments, profile, settings)
 
 ---
-
-## Support
-
-For technical setup and development, see:
-
-- [DEVELOPMENT.md](./DEVELOPMENT.md) – Development environment setup
-- [API.md](./API.md) – API documentation
-- [DEPLOYMENT.md](./DEPLOYMENT.md) – Deployment instructions
